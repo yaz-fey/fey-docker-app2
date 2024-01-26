@@ -1,0 +1,18 @@
+/* src/components/Weather/weather.css */
+
+.weather-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .weather-card h3 {
+    margin-top: 0;
+  }
+  
+  .weather-detail {
+    margin-bottom: 10px;
+  }
+  
